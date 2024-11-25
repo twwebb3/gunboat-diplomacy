@@ -1,0 +1,9 @@
+{
+  "regions": [
+    {
+      "name": "London",
+      "type": "land",
+      "adjacent": ["Yorkshire", "North Sea", "English Channel", "Wales"]
+    }
+  ]
+}
